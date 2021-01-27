@@ -1,0 +1,175 @@
+AU
+
+Non Quoted #1257225.1 
+Quoted #1257226.1
+Template #1257229.1 
+
+US 
+non quoted   #12481572.1
+Quoted  #12481573.1
+Template  #12481577.1
+
+UK
+non quoted #2214632.1
+quoted #2214633.1
+template #2214634.1
+
+
+Sr@@R@mya2806-- Pwd Star clicks
+
+Gii- APJ (browser)
+CP -AMER ,EMEA  - VP
+
+P20VMOSCUI12
+
+"element":"BUTTON","id":"composer-header-solutionbutton-save-link","class":"dds__btn dds__btn-secondary
+
+usdisti@bankone.com
+Password1 
+
+
+Multi quote -
+
+Quote no should be below solution id 
+each grp level quote should be showd 
+solution favr
+export pricing proposals , More options 
+
+
+duplicate.osc@ladame.com
+Password1
+
+
+
+http://tfs2.dell.com:8080/tfs/eDell/eDellPrograms/Solutions/_testManagement?planId=8098044&suiteId=8607100&_a=tests
+
+
+France:
+https://www.dell.com/identity/global/in/ff92a5d1-b27a-415d-94ee-703f360b6fdb?redirectUrl=http%3a%2f%2fwww.dell.com/solutions/Configurator/fr/en/g_90917/euro/Internal/Gii/osc/Your-Solutions
+
+https://www.dell.com/identity/global/in/ff92a5d1-b27a-415d-94ee-703f360b6fdb?redirectUrl=http%3a%2f%2fwww.dell.com/solutions/Configurator/fr/en/g_909/euro/Internal/Gii/osc/Your-Solutions 
+
+
+...........................
+
+Available in 90917 - not exist in 909
+NETWORKING - RACK - ETHERNET
+
+| CAMPUS Smart Value | Dell EMC Networking N1108P - [DNN1108P]	Details		
+| CAMPUS Smart Value | Dell EMC Networking N1108T - [DNN1108T]	
+| CAMPUS Smart Value | Dell EMC Networking N1124P - [DNN1124P]	
+| CAMPUS Smart Value | Dell EMC Networking N1124T - [DNN1124T]	
+| CAMPUS Smart Value | Dell EMC Networking N1148T - [DNN1148T]	
+			
+
+VFLEX 
+VxFlex Appliance R740xd - [EMEA_RamlaBay_R740XD]	Details			
+VxFlex Appliance R840 - [EMEA_RamlaBay_R840]	Details			
+VxFlexAppliance R640 - [EMEA_VxFlexAppliance_R640]
+
+
+
+Available in 909 - not exist in 90917
+
+NETWORKING - RACK - ETHERNET
+
+| DATACENTER Smart Value | Dell EMC Networking S3048-ON - [DNS3048]
+DATACENTER Smart Value | Dell EMC Networking S3048-ON with Reversed Air-Flow - [DNS3048RA]
+DATACENTER Smart Value | Dell EMC Networking S3048-ON - [DNS3048]	Details			
+| DATACENTER Smart Value | Dell EMC Networking S3048-ON with Reversed Air-Flow - [DNS3048RA]
+EMEA_R740_Solution - [EMEA_R740_SOL]
+*EMEA_R740xd_Solution - [EMEA_R740xd_SOL]	
+
+STORAGE - STORAGE AREA NETWORK
+Trident V4 EMEA - [EMC_POWERSTOREVI_EMEA_4]	
+
+Test 
+3dent V3 EMEA - [EMC_POWERSTOREVI_EMEA_3]
+
+clean png graphics free
+
+Affliate program amazon
+
+pixels.com
+
+https://unsplash.com/
+
+
+.......................................
+
+VPOD4 data migration
+
+Non quoted #1258653.1
+Quoted #1258655.1 
+Template #1258669.1 
+
+UK 
+
+Non quote #2217972.1
+quote #2217974.1 
+Template #2217985.1
+
+US 
+Non quoted #12487629.1
+Quoted #12487630.1 
+Template #12487634.1
+
+..............................................
+
+CP-AMER ,EMEA, Gii-APJ
+
+
+
+execute Boomerang in Gii-EMEA, CP-AMER, CP-APJ by splitting the actions across 3 regions.
+...................................................
+
+1) if exact match - configuration chnages 
+
+2) Verify the catalog id column in the your solution page for new catalog B           Catalog id should be reflected in Your Solution page for new catalog B
+
+3) Reopen 
+
+2222568.1
+
+
+1261225.1
+
+
+...........................................
+usdisti@bankone.com
+Password1 
+
+audupcontt.osc@dellintern.com  
+Password1
+
+User : welcome@ukcl.com 
+Password : Password01 
+
+.........................................
+
+https://www.dell.com/Identity/global/Login/a1e7fd82-03de-4731-8899-878cb868b8fa?c=cn&l=en&redirecturl=http://www.dell.com/Solutions/Configurator/CN/EN/g_46003/asia/osc/your-solutions
+
+testchina@chinaOEMOEM.com / Password1
+
+
+
+
+......................................
+
+DEFECT 8639730
+8639730 : Defect 8639730: [SIT G2][New Manage Account]OSC CP-APJ: Navigating to Error encountered screen when try to open the solution advisor UI from More drop down in OSC
+
+2423407.1  - AMER
+146194.1 - UK
+93821.1 - APJ
+
+
+
+8624217
+
+
+
+......................................
+Plan id : 8534475
+
+

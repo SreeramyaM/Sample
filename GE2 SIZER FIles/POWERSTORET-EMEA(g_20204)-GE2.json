@@ -1,0 +1,37 @@
+{
+    "Structures": [
+        {
+            "Qty": 1,
+            "Name": "Appliance 1",
+            "ConfigType": "NEW",
+            "Model": "POWERSTORET",
+            "ModelDescription": "POWERSTORET PS 1000 Series",
+            "Bases": [
+                {
+                    "Id": "GQEJ7MS",
+                    "Qty": 1,
+                    "Modules": [
+                        {
+                            "Id": 1570,
+                            "Options": [
+                                {
+                                    "Id": "G3B6A0H",
+                                    "Qty": 6
+                                }
+                            ]
+                        
+                            
+                        }
+                    ]
+                }
+            ]
+        }
+    ],
+    "AdditionalInfo": {
+        "ToolName": "POWERSTORET Sizer",
+        "ToolVersion": "1",
+        "CreatedBy": "Guillermo Gomez",
+        "Checksum": "0eb458bb1e307db2909cdde785a4acfce900ada253b305f8313b890eefbb87cc7aa3c5123284a4485aa44877cfafefa3e97a76976fb519ced32df4e6648a77d7",
+        "FileID": "20204Trident"
+    }
+}

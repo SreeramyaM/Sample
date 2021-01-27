@@ -1,0 +1,117 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1       W10571SVT2.kul.apac.dell.com
+127.0.0.1		local.dell.com
+
+10.161.4.157 accessories.us.dell.com
+10.164.22.124 advisors.sit.svc
+
+#10.164.15.240 afcs.dell.com
+10.179.215.209 afcs.dell.com
+
+10.164.27.11 ats-global.sit.svc
+10.161.6.160 bill-sdr.sit.svc
+10.167.1.221 caching.sit.svc
+10.161.6.197 cdassymphsit.us.dell.com
+10.164.22.49 channel-eudm.sit.svc
+10.164.20.25 cms.sit.svc
+10.167.2.92 com-api.sit.ux
+10.164.22.86 complexconfig.sit.bus
+10.167.3.132 complexconfig.sit.svc
+10.164.28.242 complexconfig-ro.sit.db
+10.167.2.176 config.sit.svc
+10.167.2.176 configbuild.sit.svc
+10.160.122.37 config-emea-a.sit.db
+10.160.122.36 config-prem-a.sit.db
+10.160.122.37 config-prem-emea-a.sit.db
+10.164.22.242 config-stage.sit.svc
+10.160.122.36 configstage-amer.sit.db
+10.160.122.37 configstage-emea.sit.db
+10.160.122.36 config-us-a.sit.db
+10.161.8.183 cps.dell.com
+10.160.122.36 dbcache.us.dell.com
+143.166.83.163 DellStar
+10.160.122.36 eCache-amer-rel.sit.db
+10.160.122.36 eCache-amer-stage.sit.db
+10.160.122.36 eCache-amer-tx.sit.db
+10.160.122.37 eCache-emea-rel.sit.db
+10.160.122.37 eCache-emea-stage.sit.db
+10.160.122.37 eCache-emea-tx.sit.db
+10.164.39.218 eCache-sentinel-amer-rel.sit.db
+10.164.39.218 eCache-sentinel-amer-tx.sit.db
+10.164.39.218 eCache-sentinel-emea-rel.sit.db
+10.164.39.218 eCache-sentinel-emea-tx.sit.db
+10.164.17.140 enterprisesettings.sit.svc
+10.164.34.213 enterprisesolutions.sit.db
+10.164.34.213 enterprisesolutionsAP.sit.db
+10.164.34.213 enterprisesolutionsEMEA.sit.db
+10.167.3.135 gcm.sit.svc
+10.99.246.159 gedis-cpq-apac.sit.svc
+10.32.34.182 gedis-cpq-emea.sit.svc
+10.99.246.159 gedis-gii-apac.sit.svc
+10.32.34.182 gedis-gii-emea.sit.svc
+10.164.34.213 globalAdvisor.sit.db
+10.164.35.142 GlobalMembership.sit.db
+10.164.15.240 i.dell.com
+10.164.21.11 identity.sit.svc
+10.164.35.142 IdentitySession.sit.db
+10.167.3.74 itemcatalog.sit.svc
+10.163.1.134 item-snapshot.sit.svc
+10.164.34.213 jsf.sit.db
+23.100.120.65 login.microsoftonline.com
+10.164.15.240 media.community.dell.com
+10.143.254.70 moss.dell.com
+10.232.129.38 partner.dell.com
+10.164.13.234 partnerdirect.dell.com
+10.164.4.35 payments.dell.com
+10.32.37.80 pdsl-sit.sit.svc
+143.166.83.105 pf.us.dell.com
+10.167.3.252 prddis.sit.svc
+10.167.3.81 previewconfigure.us.dell.com
+10.143.18.126 proxy.us.dell.com
+10.167.3.238 quote.sit.svc
+10.164.31.35 redis-7000.sitrediscachecluster.us.dell.com
+10.164.15.240 sales.dell.com
+10.167.3.251 scs.sit.svc
+10.163.1.118 snapshot.sit.svc
+10.161.4.157 snp.cdn.dell.com
+10.160.133.80 snp-cs.sit.svc
+10.164.35.102 snp-eventhandler.sit.db
+10.164.35.116 snp-eventhandler-emea.sit.db
+10.167.3.253 solutionmicroservices.sit.svc
+10.164.35.115 solutionsvega.sit.db
+10.164.34.213 sscache.sit.db
+10.161.3.245 sso.dell.com
+136.147.42.45 test.salesforce.com
+10.164.15.240 tools.dell.com
+10.32.37.169 ts4-osb-sit4.us.dell.com
+10.167.3.29 validation.sit.svc
+
+#10.164.15.240 www.dell.com
+10.179.215.209 www.dell.com
+
+192.30.252.154 www.nlog-project.org
+143.166.156.72 www-poc.dell.com
+10.160.130.10 xpod-service.dell.com
+
+4.4.4.4	sit.com

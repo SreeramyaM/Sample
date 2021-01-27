@@ -1,0 +1,117 @@
+# Copyright (c) 1993-2009 Microsoft Corp.
+#
+# This is a sample HOSTS file used by Microsoft TCP/IP for Windows.
+#
+# This file contains the mappings of IP addresses to host names. Each
+# entry should be kept on an individual line. The IP address should
+# be placed in the first column followed by the corresponding host name.
+# The IP address and the host name should be separated by at least one
+# space.
+#
+# Additionally, comments (such as these) may be inserted on individual
+# lines or following the machine name denoted by a '#' symbol.
+#
+# For example:
+#
+#      102.54.94.97     rhino.acme.com          # source server
+#       38.25.63.10     x.acme.com              # x client host
+
+# localhost name resolution is handled within DNS itself.
+#	127.0.0.1       localhost
+#	::1             localhost
+
+127.0.0.1       localhost.dell.com
+
+10.179.204.148 Complexconfig-store.sit.db
+10.32.139.46 accessories.us.dell.com
+10.167.2.220 advisors.sit.svc
+10.179.215.187 afcs.dell.com
+10.164.27.205 ats-global.sit.svc
+#10.178.200.183 ausgptweb.us.dell.com
+#10.160.228.207 bill-sdr.sit.svc
+10.167.1.79 caching.sit.svc
+10.160.4.81 cdassymphsit.us.dell.com
+10.167.2.163 channel-eudm.sit.svc
+10.167.1.50 cms.sit.svc
+10.167.2.73 com-api.sit.ux
+10.164.18.92 complexconfig.sit.bus
+10.167.2.156 complexconfig.sit.svc
+10.164.33.193 complexconfig-ro.sit.db
+10.167.1.71 config.sit.svc
+10.167.1.72 configbuild.sit.svc
+10.160.183.93 config-emea-a.sit.db
+10.160.183.91 config-prem-a.sit.db
+10.160.183.93 config-prem-emea-a.sit.db
+10.164.18.232 config-stage.sit.svc
+10.160.183.91 configstage-amer.sit.db
+10.160.183.93 configstage-emea.sit.db
+10.160.183.91 config-us-a.sit.db
+10.160.144.174 cps.dell.com
+10.160.183.91 dbcache.us.dell.com
+10.160.183.91 eCache-amer-rel.sit.db
+10.160.183.91 eCache-amer-stage.sit.db
+10.160.183.91 eCache-amer-tx.sit.db
+10.160.183.93 eCache-emea-rel.sit.db
+10.160.183.93 eCache-emea-stage.sit.db
+10.160.183.93 eCache-emea-tx.sit.db
+10.164.32.231 eCache-sentinel-amer-rel.sit.db
+10.164.32.231 eCache-sentinel-amer-tx.sit.db
+10.164.32.231 eCache-sentinel-emea-rel.sit.db
+10.164.32.231 eCache-sentinel-emea-tx.sit.db
+10.167.1.51 enterprisesettings.sit.svc
+10.164.34.206 enterprisesolutions.sit.db
+10.164.34.206 enterprisesolutionsAP.sit.db
+10.164.34.206 enterprisesolutionsEMEA.sit.db
+10.164.16.199 gcm.sit.svc
+10.99.247.108 gedis-cpq-apac.sit.svc
+#10.32.34.182 gedis-cpq-emea.sit.svc
+10.99.247.108 gedis-gii-apac.sit.svc
+10.32.9.140 gedis-gii-emea.sit.svc
+10.93.20.63 gedis-gii-te1-apac.ins.dell.com
+#10.160.161.132 gedis-gii-te1-emea.us.dell.com
+10.164.34.206 globalAdvisor.sit.db
+10.164.34.88 GlobalMembership.sit.db
+10.179.215.187 i.dell.com
+10.167.1.52 identity.sit.svc
+10.164.34.88 IdentitySession.sit.db
+10.167.3.116 itemcatalog.sit.svc
+10.167.3.207 item-snapshot.sit.svc
+10.164.34.206 jsf.sit.db
+10.179.215.187 media.community.dell.com
+#10.143.254.70 moss.dell.com
+10.166.45.214 partnerdirect.dell.com
+10.164.12.70 payments.dell.com
+10.32.35.18 pdsl-sit.sit.svc
+#143.166.83.105 pf.us.dell.com
+10.167.2.236 prddis.sit.svc
+10.167.1.70 catalog.sit.svc
+10.167.3.106 previewconfigure.us.dell.com
+10.143.242.126 proxy.us.dell.com
+10.167.3.203 quote.sit.svc
+10.164.15.90 redis-7000.sitrediscachecluster.us.dell.com #10.164.15.87
+10.179.215.187 sales.dell.com
+10.167.3.16 scs.sit.svc
+10.160.130.7 sitservices.technicalvalidation.dell.com
+10.167.3.206 snapshot.sit.svc
+10.160.139.46 snp.cdn.dell.com
+10.166.38.134 snp-cs.sit.svc
+10.164.32.47 snp-eventhandler.sit.db
+10.164.33.228 snp-eventhandler-emea.sit.db
+10.167.2.250 solutionmicroservices.sit.svc
+10.164.33.12 solutionsvega.sit.db
+10.164.34.206 sscache.sit.db
+10.160.224.97 sso.dell.com
+10.160.52.200 tools.dell.com
+10.167.1.73 validation.sit.svc
+10.179.215.187 www.dell.com
+192.30.252.154 www.nlog-project.org
+143.166.156.71 www-poc.dell.com
+10.160.130.10 xpod-service.dell.com
+
+10.164.33.197 premier-viewmodel.sit.db
+
+10.167.2.238 prddis.perf.svc  
+10.164.7.18 snpapi.perf.svc
+10.167.1.28 catalog.perf.svc
+
+2.2.2.2	sit.com
